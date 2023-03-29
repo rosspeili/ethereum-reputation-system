@@ -3,7 +3,7 @@ On-chain reputation system for wallets, txs, tokens, and nfts, contracts and mor
 
 It's possible to build a decentralized reputation system that's similar to the ones used by platforms like Amazon or eBay. The system could allow users to upvote or downvote other users based on their interactions, and could include preset reactions or comments to provide more context.
 
-So far reputation systems are based on L2s and now zksyncs, but it could be as easy as a gasless tx on mainnet, if you ensure the user signs the right thing. Limiting each wallet to only one signature per address or contract would help prevent spam and ensure a more accurate reputation system.
+So far reputation systems are based on L2s and now zksyncs, but it could be as easy as a gasless tx on mainnet, if you ensure the user signs the right thing. Limiting each wallet to only one signature per address or contract would help prevent spam and ensure a more accurate rep system.
 
 In terms of UI/UX design, suggesting wallets, transactions, contracts, and tokens based on the user's previous interactions could help streamline the feedback process and increase user engagement. This could be achieved by analyzing the user's transaction history and identifying recent interactions with other wallets or contracts.
 
