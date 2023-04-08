@@ -16,7 +16,7 @@ Obviously a  reputation  system could be  beneficial for the broader Ethereum ne
 The code is very basic and test-level, created with chatGPT4 and brain. 🤖🧠
 Feel free to adjust, contribute, suggest, leave any feedback <333
 
-<h2>Additional intel<h2>
+<h2>Additional intel</h2>
 
 Database setup: You would need to choose a suitable database for your application, such as MySQL, MongoDB, or Firebase, and set it up with the necessary configurations.
 
